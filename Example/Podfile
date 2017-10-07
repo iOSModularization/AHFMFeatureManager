@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AHFMFeatureManager_Example' do
+  pod 'AHFMFeatureManager', :path => '../'
+
+  target 'AHFMFeatureManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
