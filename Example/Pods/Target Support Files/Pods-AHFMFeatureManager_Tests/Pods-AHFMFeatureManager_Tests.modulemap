@@ -1,0 +1,6 @@
+framework module Pods_AHFMFeatureManager_Tests {
+  umbrella header "Pods-AHFMFeatureManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
